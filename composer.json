@@ -11,7 +11,7 @@
   ],
   "type": "wordpress-muplugin",
   "require": {
-    "abraham/twitteroauth": "^1.0",
+    "abraham/twitteroauth": "^5.0",
     "composer/installers": "~1.0",
     "deliciousbrains/wp-post-types": "^1.0",
     "boxuk/wp-muplugin-loader": "^1.2"
