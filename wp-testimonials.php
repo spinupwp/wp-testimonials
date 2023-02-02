@@ -4,7 +4,7 @@
  * Plugin URI: https://deliciousbrains.com
  * Description: WordPress must-use plugin for managing testimonials, importing from tweets and displaying them.
  * Author: Delicious Brains
- * Version: 1.0.1
+ * Version: 1.3
  * Author URI: https://deliciousbrains.com
  **/
 
